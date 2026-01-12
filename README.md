@@ -65,24 +65,4 @@ GreenTrack is a community-driven web application designed to encourage and gamif
    ```bash
    npm run dev
    ```
-
-## 🚀 Deployment
-
-This project is optimized for deployment on **Vercel** or **Netlify**.
-
-1. Connect your GitHub repository to Vercel/Netlify.
-2. Set the *Build Command* to `npm run build`.
-3. Set the *Output Directory* to `dist`.
-4. Add your `.env` variables in the Vercel/Netlify dashboard settings.
-
-## 🤝 Contributing
-
-Join us in making the world greener!
-1. Fork the repo.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
----
 *Built with 💚 for the planet.*
